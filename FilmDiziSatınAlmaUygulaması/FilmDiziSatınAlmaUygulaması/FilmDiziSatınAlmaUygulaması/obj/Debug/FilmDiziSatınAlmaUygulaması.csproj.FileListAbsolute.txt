@@ -1,0 +1,12 @@
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe.config
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Properties.Resources.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.GenerateResource.cache
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CopyComplete
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csprojAssemblyReference.cache
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.GirisForm.resources

@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7BCE57AD-FC43-492F-A328-24B5C961F995}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FilmDiziSatınAlmaUygulaması</RootNamespace>
+    <AssemblyName>FilmDiziSatınAlmaUygulaması</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formlar\AdminFilmListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\AdminFilmListele.Designer.cs">
+      <DependentUpon>AdminFilmListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\BilimKurguFilmEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\BilimKurguFilmEkle.Designer.cs">
+      <DependentUpon>BilimKurguFilmEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\FilmAyrıntı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\FilmAyrıntı.Designer.cs">
+      <DependentUpon>FilmAyrıntı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\FilmGüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\FilmGüncelle.Designer.cs">
+      <DependentUpon>FilmGüncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\FilmListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\FilmListele.Designer.cs">
+      <DependentUpon>FilmListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Kategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Kategori.Designer.cs">
+      <DependentUpon>Kategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\RomantikFilmEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\RomantikFilmEkle.Designer.cs">
+      <DependentUpon>RomantikFilmEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\SatınAlma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\SatınAlma.Designer.cs">
+      <DependentUpon>SatınAlma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sınıflar\Musteri.cs" />
+    <Compile Include="Sınıflar\BilimKurguClass.cs" />
+    <Compile Include="Sınıflar\Dil.cs" />
+    <Compile Include="Sınıflar\Film.cs" />
+    <Compile Include="Formlar\KomediFilmEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\KomediFilmEkle.Designer.cs">
+      <DependentUpon>KomediFilmEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sınıflar\Kategori.cs" />
+    <Compile Include="Sınıflar\KategoriAdapter.cs" />
+    <Compile Include="Sınıflar\KategoriConverter.cs" />
+    <Compile Include="Sınıflar\KategoriInterface.cs" />
+    <Compile Include="Sınıflar\KomediClass.cs" />
+    <Compile Include="Sınıflar\Oyuncu.cs" />
+    <Compile Include="Sınıflar\Baglanti.cs" />
+    <Compile Include="FilmDiziSatinAlmaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FilmDiziSatinAlmaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FilmDiziSatinAlmaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FilmDiziSatinAlmaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\GirisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\GirisForm.Designer.cs">
+      <DependentUpon>GirisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sınıflar\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sınıflar\RomantikClass.cs" />
+    <Compile Include="Sınıflar\SatınAlma.cs" />
+    <Compile Include="Sınıflar\İşlem Sınıfları\DeleteClass.cs" />
+    <Compile Include="Sınıflar\İşlem Sınıfları\SelectClass.cs" />
+    <Compile Include="Sınıflar\İşlem Sınıfları\UpdateClass.cs" />
+    <Compile Include="Sınıflar\İşlem Sınıfları\İnsertClass.cs" />
+    <EmbeddedResource Include="Formlar\AdminFilmListele.resx">
+      <DependentUpon>AdminFilmListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\BilimKurguFilmEkle.resx">
+      <DependentUpon>BilimKurguFilmEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\FilmAyrıntı.resx">
+      <DependentUpon>FilmAyrıntı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\FilmGüncelle.resx">
+      <DependentUpon>FilmGüncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\FilmListele.resx">
+      <DependentUpon>FilmListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Kategori.resx">
+      <DependentUpon>Kategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\KomediFilmEkle.resx">
+      <DependentUpon>KomediFilmEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\GirisForm.resx">
+      <DependentUpon>GirisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\RomantikFilmEkle.resx">
+      <DependentUpon>RomantikFilmEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\SatınAlma.resx">
+      <DependentUpon>SatınAlma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="FilmDiziSatinAlmaDataSet.xsc">
+      <DependentUpon>FilmDiziSatinAlmaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FilmDiziSatinAlmaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FilmDiziSatinAlmaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FilmDiziSatinAlmaDataSet.xss">
+      <DependentUpon>FilmDiziSatinAlmaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FilmDiziSatinAlmaDataSet1.xsc">
+      <DependentUpon>FilmDiziSatinAlmaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="FilmDiziSatinAlmaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FilmDiziSatinAlmaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FilmDiziSatinAlmaDataSet1.xss">
+      <DependentUpon>FilmDiziSatinAlmaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

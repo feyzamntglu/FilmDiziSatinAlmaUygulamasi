@@ -1,0 +1,112 @@
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe.config
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Properties.Resources.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.GenerateResource.cache
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CopyComplete
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csprojAssemblyReference.cache
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.GirisForm.resources
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe.config
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.GirisForm.resources
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Properties.Resources.resources
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CopyComplete
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\deniz\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.FilmEkle.resources
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe.config
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.AnaSayfa.resources
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.FilmEkle.resources
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.GirisForm.resources
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Properties.Resources.resources
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Sınıflar.FilmSec.resources
+C:\Users\Serkut\Desktop\film dizi deneme\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.GenerateResource.Cache
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csprojAssemblyReference.cache
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.AnaSayfa.resources
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.FilmEkle.resources
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.GirisForm.resources
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Properties.Resources.resources
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Sınıflar.FilmSec.resources
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.GenerateResource.cache
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe.config
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\Büşra\Desktop\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CopyComplete
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.FilmListele.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.FilmAyrıntı.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.SatınAlma.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe.config
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.FilmAyrıntı.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.FilmListele.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.FilmEkle.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.GirisForm.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.SatınAlma.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Properties.Resources.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Sınıflar.AnaMain.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.GenerateResource.Cache
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.BilimKurguFilmEkle.resources
+C:\Users\Serkut\Desktop\strategy\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.RomantikFilmEkle.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.BilimKurguFilmEkle.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.RomantikFilmEkle.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.AdminPanel.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.Kategori.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.AdminFilmListele.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.FilmGüncelle.resources
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.ResolveComReference.cache
+C:\Users\Büşra\source\repos\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.Fragman.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csprojAssemblyReference.cache
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.ResolveComReference.cache
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe.config
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.exe
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\FilmDiziSatınAlmaUygulaması.pdb
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.AdminFilmListele.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.AdminPanel.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.BilimKurguFilmEkle.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.FilmAyrıntı.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.FilmGüncelle.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.FilmListele.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.Kategori.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.FilmEkle.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.GirisForm.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.RomantikFilmEkle.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Formlar.SatınAlma.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.Properties.Resources.resources
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.GenerateResource.cache
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Feyzanur\source\repos\FilmDiziSatınAlmaUygulaması (bitis)\FilmDiziSatınAlmaUygulaması\FilmDiziSatınAlmaUygulaması\obj\Debug\FilmDiziSatınAlmaUygulaması.csproj.CopyComplete
